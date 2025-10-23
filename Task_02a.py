@@ -29,10 +29,10 @@ def main():
   x="Task2a"
   #===============================
   # Write your code here
-    text = input("Text: ")
+  text = input("Text: ")
     
-    if text == "Marco!":
-      print("Polo!")
+  if text == "Marco!":
+    print("Polo!")
   # End of your code here
   #===============================
 
